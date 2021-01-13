@@ -6,6 +6,7 @@
 
 # Gatsby Starter: Styled Tailwind
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aryan-mann/gatsby-starter-styled-tailwind)
+
 Run the local Gatsby server at `localhost:8000` using `yarn dev`
 
 ## Features
