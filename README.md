@@ -3,14 +3,24 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
-<h1 align="center">
-  Gatsby Starter Styled Tailwind
-</h1>
 
-## Get started with `yarn dev`
+# Gatsby Starter: Styled Tailwind
+![https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit](https://www.netlify.com/img/deploy/button.svg)
+
+Run the local Gatsby server at `localhost:8000` using `yarn dev`
+
+## Features
+- [New Gatsby Image Beta](https://github.com/gatsbyjs/gatsby/discussions/27950)
+
+- [Tailwind](https://tailwindcss.com/)
+
+- [Twin Macro Bindings](https://github.com/ben-rogerson/twin.macro)
+
+- [Emotion & Styled Components](https://emotion.sh/docs/introduction)
+
+- [React Helmet](https://github.com/nfl/react-helmet)
 
 ## Learn more
-
 - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
 - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
