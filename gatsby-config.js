@@ -3,8 +3,17 @@ module.exports = {
     title: "Gatsby Starter Styled Tailwind",
   },
   plugins: [
-    "gatsby-plugin-emotion",
-    "gatsby-plugin-react-helmet",
-    "gatsby-plugin-sitemap",
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: "assets",
+        path: "./src/assets/",
+      },
+    },
+    `gatsby-plugin-emotion`,
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-plugin-sitemap`,
   ],
 };
